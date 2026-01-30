@@ -1,0 +1,24 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Geospatial / remote sensing
+*.tif
+*.tiff
+*.nc
+*.zarr
+*.SAFE
+*.vrt
+
+# Machine learning artifacts
+*.joblib
+*.pkl
+
+# Archives & large datasets
+*.zip
+
+# Results / outputs
+Results/
+Training_Data/
+combined_mask.tif
+predicted*.tif
+predicted_dataset.nc
